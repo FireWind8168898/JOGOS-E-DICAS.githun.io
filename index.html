@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>JOGOS E DICAS</title>
+</head>
+<body>
+    
+    <div>
+        <style>
+           
+            h1 {
+                background-color: #ffc124; 
+                padding: 10px; 
+            }
+        </style>
+    </div>
+
+    <div>
+        <h1 style="color: rgb(0, 0, 0);">Dredge</h1>
+    </div>
+   <div>
+<img src="Dredge.jpeg" width="600" height="300" 
+             
+   </div>
+
+   <div>
+    <h3 style="color: brown;">HISTÓRIA COM PLETA</h3>
+    <p>
+        DREDGE é uma aventura solitária de pesca com um toque misterioso. Neste jogo, você assume o papel de um homem resgatado após naufragar próximo a um vilarejo em uma ilha. O prefeito local cede a você um barco e permite que você pague sua dívida com o dinheiro obtido como pescador. No entanto, sua jornada se transforma em algo muito mais sinistro.
+    </p> 
+
+    <p>
+        Um homem misterioso, que vive sozinho em uma ilha do arquipélago, pede sua ajuda para encontrar estranhos artefatos espalhados pelas diversas ilhas da região. Esses objetos estão relacionados a acontecimentos inexplicáveis e criaturas estranhas que surgiram. Conforme você explora as águas turvas e agitadas, sua sanidade é testada pelos fenômenos sobrenaturais que encontrará no caminho.
+    </p>
+    
+    <p>
+        Em DREDGE, você navega por águas misteriosas, pescando diversos tipos de peixes e criaturas marinhas. O pescado pode ser vendido para melhorar seu barco e avançar no mapa e na história. O jogo oferece duas finais, ambas com um toque lovecraftiano, deixando muito à imaginação do jogador. Um dos finais está trancado atrás de passos extras, então fique atento para desvendar todos os segredos dessa aventura sombria.
+    </p>
+
+    <p>
+        Seja cauteloso, pois nem tudo que você descobrir nas profundezas deve ser desenterrado. Explore o misterioso arquipélago e descubra por que algumas coisas são melhores deixadas esquecidas em DREDGE.
+    </p>
+   </div>
+
+    
+</head>
+<body>
+    <div>
+        <style>
+           
+            h1 {
+                background-color: #ffc124; 
+                padding: 10px;
+            }
+        </style>
+    </div>
+    <div> <h1 style="color: rgb(0, 0, 0);">Grounded</h1></div>
+
+    <img src="Grounded.jpg" width="600" height="300"
+     <div>
+
+       <h2 style="color:black">Grounded é um jogo de sobrevivência e aventura desenvolvido pela Obsidian Entertainment e publicado pela Xbox Game Studios. Ele foi lançado em acesso antecipado para Windows e Xbox One em julho de 2020 e, posteriormente, totalmente lançado em 27 de setembro de 2022. As versões para Nintendo Switch, PlayStation 4 e PlayStation 5 serão lançadas em 16 de abril de 2024
+    </h2>     
+
+        <h3 style="color:blue;">Enredo:</h3>
+        </p>
+
+        <p>
+            O protagonista (Max, Willow, Pete ou Hoops) é misteriosamente reduzido ao tamanho de uma formiga e precisa sobreviver em um quintal.
+        </p>
+
+        <p>
+            O cenário é repleto de insetos e criaturas, como aranhas, abelhas, ácaros e joaninhas.
+        </p>
+
+        <p>
+            O jogador deve coletar recursos, construir equipamentos e enfrentar ameaças enquanto explora o microcosmo do quintal.
+        </p>
+
+        <h3 style="color:blue;">Jogabilidade:</h3>
+        <p>
+
+        </p>
+        O jogo pode ser jogado em primeira ou terceira pessoa.
+        <p>
+            Os personagens precisam se alimentar e se hidratar para evitar perda de saúde.
+        </p>
+        Diferentes insetos têm funções específicas: aranhas são predadores, joaninhas indicam fontes de comida e afídeos podem ser cozidos e consumidos.
+        <p>
+            Os jogadores exploram áreas diferentes no quintal, enfrentando inimigos mais perigosos à medida que avançam.
+        </p>
+        É necessário coletar recursos para construir bases e se defender dos inimigos, especialmente à noite.
+        <p>
+            Armas como machados, lanças e arcos podem ser criadas para derrotar inimigos.
+        </p>
+        A gestão de stamina é essencial durante o combate.
+        <p>
+            Grounded oferece uma experiência única ao nos fazer enxergar o mundo sob uma perspectiva minúscula, onde até mesmo uma simples folha de grama se torna uma selva imensa. Prepare-se para enfrentar os desafios do quintal e descobrir seus segredos ocultos! 🐜🌿
+        </p>
+     </div>
+
+     <div>
+        <style>
+            /* Estilize o título com um plano de fundo */
+            h1 {
+                background-color: #ffc124; /* Defina a cor desejada */
+                padding: 10px; /* Adicione algum espaçamento interno para melhor visualização */
+            }
+        </style>
+    </div>
+
+    <div> <h1 style="color: rgb(0, 0, 0);">Stardew-Valley</h1></div>
+<img src="stardew-valley.jpg" width="600" height="300"
+
+<div>
+<p>
+    Stardew Valley é um RPG de simulação de vida no campo desenvolvido por ConcernedApe. Aqui está um resumo da história do jogo:
+</p>
+<p>
+    Você herda uma antiga fazenda de seu avô no Vale do Orvalho. Equipado com ferramentas de segunda mão e algumas moedas, você começa sua nova vida. O objetivo é aprender a viver da terra e transformar esses campos vegetados em uma casa próspera. No entanto, não será fácil. A Corporação Joja chegou à cidade, e os antigos modos de vida estão desaparecendo. O Centro Comunitário, outrora o lugar mais visitado da cidade, agora está em ruínas. Mas o vale está cheio de oportunidades. Com dedicação, você pode ser a pessoa que restaurará a grandeza do Vale do Orvalho! 🌾🌻
+</p>
+</div>
+</body>
+<div>
+    <style>
+        h1 {
+            background-color: #ffc124;
+            padding: 10px;
+        }   
+    </style>
+</div>
+<div> <h1 style="color: rgb(0, 0, 0);"> Don't Starve Together</h1></div>
+<div> <img src="Dont starve.jpg" width="600" height="300" </div>
+
+<div>
+    <h2 style="color: black;"> A história de Don’t Starve e sua sequência, Don’t Starve Together, é intrigante e cheia de mistério. Vou resumir para você:</h2>
+       
+<h3 style="color: crimson;">1. Origem de William Carter</h3>
+    <p>Na década de 1890, William Carter, um artista de teatro, parte de Liverpool, Inglaterra, para os Estados Unidos a bordo do navio Quest.
+    </p>
+        
+    Na América, William luta para ganhar a vida como artista.
+    <P>
+        Em 1903, nascem as gêmeas Abigail Lillian Carter e Wendy Carter, filhas de Jack Carter, irmão de William.
+    </P>
+    William está endividado e recebe um cartão postal de Jack, que vive na costa oeste.
+    <P>
+        Em 1904, William viaja de trem de Nova York a São Francisco e sobrevive a um acidente ferroviário com a ajuda do forte do circo, Wolfgang.
+    </P>
+    Em 1904, William viaja de trem de Nova York a São Francisco e sobrevive a um acidente ferroviário com a ajuda do forte do circo, Wolfgang.
+    <P>
+        Após o acidente, William encontra um livro com “novas e aterrorizantes possibilidades”.
+    </P>
+<h3 style="color: crimson;">2. Maxwell e o Portal</h3>
+    <P>
+        Maxwell revisa os pertences de Wilson, um cientista, e encontra planos de um portal.
+    </P>
+    Juntos, trabalham no portal, mas ao ativá-lo, três silhuetas emergem (Wendy, Wes e Wolfgang).
+    <P>
+        Maxwell, agora conhecido como “Maxwell The Great”, realiza rituais e convoca criaturas estranhas.
+ <h3 style="color: crimson;">3. O Constante:</h3>    
+    <p>
+        O mundo em que se encontram é chamado de “The Constant”.
+    </p>
+        
+    </P>
+    Os jogadores devem sobreviver enfrentando inimigos sobrenaturais e surreais.
+    <P>
+        A versão para um jogador é o Don’t Starve, enquanto o Don’t Starve Together permite a sobrevivência em grupo.
+    </P>
+
+ <h3 style="color: crimson;">4.Quebra-Cabeças e Eventos</h3>
+    <p>
+        A história se expande por meio de vídeos promocionais animados e quebra-cabeças ocultos.
+    </p>
+
+    <p>
+        As pistas também estão nas falas dos personagens.
+    </p>
+</div>
+
+<style>
+    h1 {
+        background-color: #ffc124;
+        padding: 10px;
+    }
+</style>
+
+<h1 style="color:black;">Terraria</h1>
+
+<div>
+    <img src="terraria.jpg" width="600" height="300"
+</div>
+
+<div>    
+
+    <h2 style="color: black;">Terraria é um jogo indie de ação e aventura desenvolvido pela Re-Logic. Sua história é rica em mistério e exploração. Vou resumir os principais pontos da história para você:</h2>
+    <h3 style="color: green;">1. Origens e Despertar</h3>
+<p>
+    O mundo de Terraria começa como um lugar pacífico, mas algo sinistro está à espreita.
+</p>
+
+<p>
+O  mundo de Terraria começa como um lugar pacífico, mas algo sinistro está à espreita.
+</p>
+   <h3 style="color: green;">2. Inimigos e Desafios:</h3>
+
+<p>
+    O mundo está repleto de criaturas hostis, como zumbis, esqueletos e demônios.
+</p>
+
+<p>
+    O jogador deve coletar recursos, criar armas e armaduras para enfrentar esses desafios.
+</p>
+   
+  <h3 style="color: green;">3.Bosses e Mistérios:</h3>
+
+<p>
+    À medida que o jogador explora, encontra artefatos antigos e desencadeia eventos misteriosos.
+</p>
+
+<p>
+    Enfrentar chefes é uma parte crucial da história. Alguns exemplos incluem o Olho de Cthulhu, o Esqueletron e o Devorador de Mundos.
+</p>
+  <h3 style="color: green;">4. Lore e Profundidade:</h3>
+
+<p>
+    Terraria possui uma rica lore, com referências a civilizações antigas, deuses e entidades cósmicas.
+</p>
+
+<P>
+    A história é contada por meio de itens, NPCs e eventos ocultos.
+</P>
+
+<h3 style="color: green;">5.Exploração Infinita</h3>
+
+<p>
+    O mundo de Terraria é vasto e cheio de segredos. Cavernas, masmorras, selvas e desertos aguardam a exploração do jogador.
+</p>
+
+<h3 style="color: green;">6.Conquistas e Desenvolvimento:</h3>
+
+<p>
+    O objetivo final é derrotar o Wall of Flesh e desbloquear o modo Hardmode, que traz novos desafios e inimigos.
+</p>
+
+<p>
+    O jogador pode construir casas, criar artefatos mágicos e explorar masmorras.
+</p>
+
+</div>
+
+<div>
+    <H4 style="color: black;">Sou inciante na programção, me deam uma nota para meu primeiro site</H4>
+
+    <form>
+       <input type="text">
+       <button type="submit">Evniar</button>
+    </form>
+</div>
+
+</body>
+</html>
